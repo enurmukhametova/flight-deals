@@ -3,7 +3,7 @@ from datetime import date, timedelta
 from . import config
 
 TP_URL = "https://api.travelpayouts.com/v2/prices/latest"
-FX_URL = "https://api.frankfurter.app/latest"
+FX_URL = "https://api.frankfurter.dev/v1/latest"
 
 
 def fetch_prices(origin: str, one_way: bool) -> list[dict]:
