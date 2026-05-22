@@ -1,0 +1,6682 @@
+{
+  "AUH-SLL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 7083
+      }
+    ]
+  },
+  "AUH-BAH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 7340
+      }
+    ]
+  },
+  "AUH-KHI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8616
+      }
+    ]
+  },
+  "AUH-ELQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8958
+      }
+    ]
+  },
+  "AUH-JED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10054
+      }
+    ]
+  },
+  "AUH-RUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10579
+      }
+    ]
+  },
+  "AUH-SKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11227
+      }
+    ]
+  },
+  "AUH-MCT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11496
+      }
+    ]
+  },
+  "AUH-GOI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11556
+      }
+    ]
+  },
+  "AUH-CMB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11644
+      }
+    ]
+  },
+  "AUH-MED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11748
+      }
+    ]
+  },
+  "AUH-CAI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12274
+      }
+    ]
+  },
+  "AUH-CCU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12331
+      }
+    ]
+  },
+  "AUH-PEW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12546
+      }
+    ]
+  },
+  "AUH-KWI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12588
+      }
+    ]
+  },
+  "AUH-ISB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12611
+      }
+    ]
+  },
+  "AUH-BOM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12695
+      }
+    ]
+  },
+  "AUH-DMM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12750
+      }
+    ]
+  },
+  "AUH-LHE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12798
+      }
+    ]
+  },
+  "AUH-ATH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12969
+      }
+    ]
+  },
+  "AUH-KTM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13634
+      }
+    ]
+  },
+  "AUH-DEL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13657
+      }
+    ]
+  },
+  "AUH-NBO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13700
+      }
+    ]
+  },
+  "AUH-UDR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13947
+      }
+    ]
+  },
+  "AUH-MAA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14239
+      }
+    ]
+  },
+  "AUH-ALY-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14681
+      }
+    ]
+  },
+  "AUH-BLR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14805
+      }
+    ]
+  },
+  "AUH-HYD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15713
+      }
+    ]
+  },
+  "AUH-LON-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15857
+      }
+    ]
+  },
+  "AUH-JAI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15990
+      }
+    ]
+  },
+  "AUH-LKO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16020
+      }
+    ]
+  },
+  "AUH-CNN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16168
+      }
+    ]
+  },
+  "AUH-HMB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16365
+      }
+    ]
+  },
+  "AUH-COK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16439
+      }
+    ]
+  },
+  "AUH-TRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16479
+      }
+    ]
+  },
+  "AUH-AHB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16620
+      }
+    ]
+  },
+  "AUH-GIZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16660
+      }
+    ]
+  },
+  "AUH-CCJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16669
+      }
+    ]
+  },
+  "AUH-BKK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16812
+      }
+    ]
+  },
+  "AUH-DXB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16919
+      }
+    ]
+  },
+  "AUH-SHJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17100
+      }
+    ]
+  },
+  "AUH-HOF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17666
+      }
+    ]
+  },
+  "AUH-MOW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17755
+      }
+    ]
+  },
+  "AUH-SSH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17775
+      }
+    ]
+  },
+  "AUH-EVN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17867
+      }
+    ]
+  },
+  "AUH-TBS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17983
+      }
+    ]
+  },
+  "AUH-DOH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18066
+      }
+    ]
+  },
+  "AUH-ROM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18102
+      }
+    ]
+  },
+  "AUH-AMD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18235
+      }
+    ]
+  },
+  "AUH-IST-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19433
+      }
+    ]
+  },
+  "AUH-MIL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19757
+      }
+    ]
+  },
+  "AUH-VNS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19951
+      }
+    ]
+  },
+  "AUH-SIN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20001
+      }
+    ]
+  },
+  "AUH-DIB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20140
+      }
+    ]
+  },
+  "AUH-ADD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20666
+      }
+    ]
+  },
+  "AUH-CJB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21057
+      }
+    ]
+  },
+  "AUH-LCA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21102
+      }
+    ]
+  },
+  "AUH-MLE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21302
+      }
+    ]
+  },
+  "AUH-TAS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21648
+      }
+    ]
+  },
+  "AUH-ASW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22265
+      }
+    ]
+  },
+  "AUH-AER-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22528
+      }
+    ]
+  },
+  "AUH-GVA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22665
+      }
+    ]
+  },
+  "AUH-SGN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22692
+      }
+    ]
+  },
+  "AUH-KUL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22874
+      }
+    ]
+  },
+  "AUH-MUX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23192
+      }
+    ]
+  },
+  "AUH-MSQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23991
+      }
+    ]
+  },
+  "AUH-CMN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24293
+      }
+    ]
+  },
+  "AUH-MUC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24614
+      }
+    ]
+  },
+  "AUH-MMK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24617
+      }
+    ]
+  },
+  "AUH-BUS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25256
+      }
+    ]
+  },
+  "AUH-TZX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25385
+      }
+    ]
+  },
+  "AUH-GOJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25744
+      }
+    ]
+  },
+  "AUH-VOG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25896
+      }
+    ]
+  },
+  "AUH-CAN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26073
+      }
+    ]
+  },
+  "AUH-ABV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26420
+      }
+    ]
+  },
+  "AUH-DPS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26915
+      }
+    ]
+  },
+  "AUH-BRI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27032
+      }
+    ]
+  },
+  "AUH-BAK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27236
+      }
+    ]
+  },
+  "AUH-ALA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27480
+      }
+    ]
+  },
+  "AUH-NCE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28696
+      }
+    ]
+  },
+  "AUH-PRG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28927
+      }
+    ]
+  },
+  "AUH-GRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29094
+      }
+    ]
+  },
+  "AUH-HKG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29240
+      }
+    ]
+  },
+  "AUH-OVB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29500
+      }
+    ]
+  },
+  "AUH-CPT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29506
+      }
+    ]
+  },
+  "AUH-SEZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29920
+      }
+    ]
+  },
+  "AUH-PZU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30572
+      }
+    ]
+  },
+  "AUH-CTU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31142
+      }
+    ]
+  },
+  "AUH-BRU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31273
+      }
+    ]
+  },
+  "AUH-AMS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31283
+      }
+    ]
+  },
+  "AUH-CNX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32070
+      }
+    ]
+  },
+  "AUH-GDZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32310
+      }
+    ]
+  },
+  "AUH-CKG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33346
+      }
+    ]
+  },
+  "AUH-MNL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34010
+      }
+    ]
+  },
+  "AUH-PMI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34893
+      }
+    ]
+  },
+  "AUH-CEK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35227
+      }
+    ]
+  },
+  "AUH-BUD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35510
+      }
+    ]
+  },
+  "AUH-SEL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35789
+      }
+    ]
+  },
+  "AUH-MRU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36021
+      }
+    ]
+  },
+  "AUH-PFO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38954
+      }
+    ]
+  },
+  "AUH-PKC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40046
+      }
+    ]
+  },
+  "AUH-CFU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41470
+      }
+    ]
+  },
+  "AUH-RKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41947
+      }
+    ]
+  },
+  "AUH-DYU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42009
+      }
+    ]
+  },
+  "AUH-NAL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43015
+      }
+    ]
+  },
+  "AUH-ATZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44237
+      }
+    ]
+  },
+  "AUH-ALG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45034
+      }
+    ]
+  },
+  "AUH-CGY-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47739
+      }
+    ]
+  },
+  "AUH-YTO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54532
+      }
+    ]
+  },
+  "AUH-LAX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 58371
+      }
+    ]
+  },
+  "AUH-BOS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 68697
+      }
+    ]
+  },
+  "AUH-SFO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 87546
+      }
+    ]
+  },
+  "AUH-SJO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 101684
+      }
+    ]
+  },
+  "AUH-SPK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 107458
+      }
+    ]
+  },
+  "AUH-BAH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14547
+      }
+    ]
+  },
+  "AUH-RUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19300
+      }
+    ]
+  },
+  "AUH-SLL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21697
+      }
+    ]
+  },
+  "AUH-DMM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21777
+      }
+    ]
+  },
+  "AUH-CAI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21961
+      }
+    ]
+  },
+  "AUH-MCT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22762
+      }
+    ]
+  },
+  "AUH-CMB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23553
+      }
+    ]
+  },
+  "AUH-MOW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27271
+      }
+    ]
+  },
+  "AUH-DOH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30055
+      }
+    ]
+  },
+  "AUH-ALY-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30592
+      }
+    ]
+  },
+  "AUH-DEL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30728
+      }
+    ]
+  },
+  "AUH-BLR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30799
+      }
+    ]
+  },
+  "AUH-TBS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30998
+      }
+    ]
+  },
+  "AUH-MAA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31709
+      }
+    ]
+  },
+  "AUH-KTM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32432
+      }
+    ]
+  },
+  "AUH-BOM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32783
+      }
+    ]
+  },
+  "AUH-TRV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34097
+      }
+    ]
+  },
+  "AUH-COK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34127
+      }
+    ]
+  },
+  "AUH-BKK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34443
+      }
+    ]
+  },
+  "AUH-ISB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35235
+      }
+    ]
+  },
+  "AUH-AMD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35751
+      }
+    ]
+  },
+  "AUH-LHE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37590
+      }
+    ]
+  },
+  "AUH-ADD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37706
+      }
+    ]
+  },
+  "AUH-CCU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38362
+      }
+    ]
+  },
+  "AUH-JED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39315
+      }
+    ]
+  },
+  "AUH-PEW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39352
+      }
+    ]
+  },
+  "AUH-MLE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39505
+      }
+    ]
+  },
+  "AUH-LON-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39637
+      }
+    ]
+  },
+  "AUH-SHJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39923
+      }
+    ]
+  },
+  "AUH-DXB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40068
+      }
+    ]
+  },
+  "AUH-TUN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41820
+      }
+    ]
+  },
+  "AUH-EVN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42429
+      }
+    ]
+  },
+  "AUH-TAS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43313
+      }
+    ]
+  },
+  "AUH-CMN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44075
+      }
+    ]
+  },
+  "AUH-HKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44737
+      }
+    ]
+  },
+  "AUH-AER-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45202
+      }
+    ]
+  },
+  "AUH-CCJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47445
+      }
+    ]
+  },
+  "AUH-SEZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 48196
+      }
+    ]
+  },
+  "AUH-MIL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 51642
+      }
+    ]
+  },
+  "AUH-ROM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 52995
+      }
+    ]
+  },
+  "AUH-SSH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53232
+      }
+    ]
+  },
+  "AUH-ALG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53905
+      }
+    ]
+  },
+  "AUH-MRU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54421
+      }
+    ]
+  },
+  "AUH-CPT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55296
+      }
+    ]
+  },
+  "AUH-ABV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 56249
+      }
+    ]
+  },
+  "AUH-KRR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 56603
+      }
+    ]
+  },
+  "AUH-SIN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 56644
+      }
+    ]
+  },
+  "AUH-DAR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 57953
+      }
+    ]
+  },
+  "AUH-MNL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 58781
+      }
+    ]
+  },
+  "AUH-BER-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59001
+      }
+    ]
+  },
+  "AUH-SEL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59018
+      }
+    ]
+  },
+  "AUH-BAK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59692
+      }
+    ]
+  },
+  "AUH-HAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 60504
+      }
+    ]
+  },
+  "AUH-AMS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61564
+      }
+    ]
+  },
+  "AUH-ZNZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 63283
+      }
+    ]
+  },
+  "AUH-VIE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 63403
+      }
+    ]
+  },
+  "AUH-OVB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 63854
+      }
+    ]
+  },
+  "AUH-DPS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 64822
+      }
+    ]
+  },
+  "AUH-GVA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 67262
+      }
+    ]
+  },
+  "AUH-CAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 67778
+      }
+    ]
+  },
+  "AUH-ATH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 68027
+      }
+    ]
+  },
+  "AUH-MBA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 71744
+      }
+    ]
+  },
+  "AUH-SVX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 73221
+      }
+    ]
+  },
+  "AUH-AGP-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 75379
+      }
+    ]
+  },
+  "AUH-NYC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 75861
+      }
+    ]
+  },
+  "AUH-USM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80731
+      }
+    ]
+  },
+  "AUH-CTU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 81958
+      }
+    ]
+  },
+  "AUH-MAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 82123
+      }
+    ]
+  },
+  "AUH-TYO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 82585
+      }
+    ]
+  },
+  "AUH-KJA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 84967
+      }
+    ]
+  },
+  "AUH-TZX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 90762
+      }
+    ]
+  },
+  "AUH-DUB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 93204
+      }
+    ]
+  },
+  "AUH-CHI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 94169
+      }
+    ]
+  },
+  "AUH-GRV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 95259
+      }
+    ]
+  },
+  "AUH-NOS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 98962
+      }
+    ]
+  },
+  "AUH-VRN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 108725
+      }
+    ]
+  },
+  "DXB-RUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 7996
+      }
+    ]
+  },
+  "DXB-FRA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8128
+      }
+    ]
+  },
+  "DXB-KHI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8421
+      }
+    ]
+  },
+  "DXB-ELQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8599
+      }
+    ]
+  },
+  "DXB-BAH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8645
+      }
+    ]
+  },
+  "DXB-JED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9510
+      }
+    ]
+  },
+  "DXB-AMD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9954
+      }
+    ]
+  },
+  "DXB-LKO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10070
+      }
+    ]
+  },
+  "DXB-MCT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10187
+      }
+    ]
+  },
+  "DXB-KTM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10568
+      }
+    ]
+  },
+  "DXB-HYD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11118
+      }
+    ]
+  },
+  "DXB-DMM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11224
+      }
+    ]
+  },
+  "DXB-MED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11261
+      }
+    ]
+  },
+  "DXB-PAT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11394
+      }
+    ]
+  },
+  "DXB-SLL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11551
+      }
+    ]
+  },
+  "DXB-LHE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11713
+      }
+    ]
+  },
+  "DXB-MAA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11788
+      }
+    ]
+  },
+  "DXB-DEL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11829
+      }
+    ]
+  },
+  "DXB-CCU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11831
+      }
+    ]
+  },
+  "DXB-PNQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11894
+      }
+    ]
+  },
+  "DXB-BOM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11965
+      }
+    ]
+  },
+  "DXB-GOI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12082
+      }
+    ]
+  },
+  "DXB-CMB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12111
+      }
+    ]
+  },
+  "DXB-ISB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12222
+      }
+    ]
+  },
+  "DXB-IDR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12254
+      }
+    ]
+  },
+  "DXB-IXE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12285
+      }
+    ]
+  },
+  "DXB-DOH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12408
+      }
+    ]
+  },
+  "DXB-UDR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12532
+      }
+    ]
+  },
+  "DXB-PEW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12676
+      }
+    ]
+  },
+  "DXB-MUX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12873
+      }
+    ]
+  },
+  "DXB-BLR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13384
+      }
+    ]
+  },
+  "DXB-VNS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13528
+      }
+    ]
+  },
+  "DXB-BHO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13547
+      }
+    ]
+  },
+  "DXB-SKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13862
+      }
+    ]
+  },
+  "DXB-JAI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14016
+      }
+    ]
+  },
+  "DXB-TAS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14421
+      }
+    ]
+  },
+  "DXB-KWI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14504
+      }
+    ]
+  },
+  "DXB-LYP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14649
+      }
+    ]
+  },
+  "DXB-IST-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14728
+      }
+    ]
+  },
+  "DXB-COK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14748
+      }
+    ]
+  },
+  "DXB-TRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14847
+      }
+    ]
+  },
+  "DXB-NQZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14881
+      }
+    ]
+  },
+  "DXB-IXR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14966
+      }
+    ]
+  },
+  "DXB-CCJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15137
+      }
+    ]
+  },
+  "DXB-IXB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15212
+      }
+    ]
+  },
+  "DXB-UET-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15317
+      }
+    ]
+  },
+  "DXB-NBO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15472
+      }
+    ]
+  },
+  "DXB-TUU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15568
+      }
+    ]
+  },
+  "DXB-ATH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16025
+      }
+    ]
+  },
+  "DXB-TIR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16189
+      }
+    ]
+  },
+  "DXB-DYU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16340
+      }
+    ]
+  },
+  "DXB-DBR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16570
+      }
+    ]
+  },
+  "DXB-MIL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16731
+      }
+    ]
+  },
+  "DXB-ATQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16861
+      }
+    ]
+  },
+  "DXB-DAC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17109
+      }
+    ]
+  },
+  "DXB-ALY-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17160
+      }
+    ]
+  },
+  "DXB-DHM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17171
+      }
+    ]
+  },
+  "DXB-TRZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17181
+      }
+    ]
+  },
+  "DXB-RDP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17212
+      }
+    ]
+  },
+  "DXB-ULH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17253
+      }
+    ]
+  },
+  "DXB-IXG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17821
+      }
+    ]
+  },
+  "DXB-IXL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17938
+      }
+    ]
+  },
+  "DXB-ROM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18104
+      }
+    ]
+  },
+  "DXB-CAI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18427
+      }
+    ]
+  },
+  "DXB-EBB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18620
+      }
+    ]
+  },
+  "DXB-MUC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18683
+      }
+    ]
+  },
+  "DXB-MAD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19350
+      }
+    ]
+  },
+  "DXB-SKD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19746
+      }
+    ]
+  },
+  "DXB-LON-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19854
+      }
+    ]
+  },
+  "DXB-AUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20070
+      }
+    ]
+  },
+  "DXB-GOP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20117
+      }
+    ]
+  },
+  "DXB-SIN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20139
+      }
+    ]
+  },
+  "DXB-CGP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20151
+      }
+    ]
+  },
+  "DXB-NUM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20155
+      }
+    ]
+  },
+  "DXB-GVA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20192
+      }
+    ]
+  },
+  "DXB-MOW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20215
+      }
+    ]
+  },
+  "DXB-KBL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20415
+      }
+    ]
+  },
+  "DXB-NAG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20453
+      }
+    ]
+  },
+  "DXB-LBD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20759
+      }
+    ]
+  },
+  "DXB-TIF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20817
+      }
+    ]
+  },
+  "DXB-ADD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20832
+      }
+    ]
+  },
+  "DXB-VIE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20844
+      }
+    ]
+  },
+  "DXB-CPH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20865
+      }
+    ]
+  },
+  "DXB-BGW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20889
+      }
+    ]
+  },
+  "DXB-PAR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20903
+      }
+    ]
+  },
+  "DXB-NCE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20974
+      }
+    ]
+  },
+  "DXB-PRG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21010
+      }
+    ]
+  },
+  "DXB-BUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21022
+      }
+    ]
+  },
+  "DXB-BKK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21139
+      }
+    ]
+  },
+  "DXB-CAN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21340
+      }
+    ]
+  },
+  "DXB-SSH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21520
+      }
+    ]
+  },
+  "DXB-OSS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21560
+      }
+    ]
+  },
+  "DXB-NMA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21645
+      }
+    ]
+  },
+  "DXB-BUS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21876
+      }
+    ]
+  },
+  "DXB-AGR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22070
+      }
+    ]
+  },
+  "DXB-EVN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22295
+      }
+    ]
+  },
+  "DXB-SOF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22296
+      }
+    ]
+  },
+  "DXB-ZRH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22582
+      }
+    ]
+  },
+  "DXB-JNB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22699
+      }
+    ]
+  },
+  "DXB-OSL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 22946
+      }
+    ]
+  },
+  "DXB-BRU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23015
+      }
+    ]
+  },
+  "DXB-CMN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23333
+      }
+    ]
+  },
+  "DXB-VGA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23378
+      }
+    ]
+  },
+  "DXB-MLE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23401
+      }
+    ]
+  },
+  "DXB-BHK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23440
+      }
+    ]
+  },
+  "DXB-EDI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23455
+      }
+    ]
+  },
+  "DXB-RPR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23502
+      }
+    ]
+  },
+  "DXB-TBS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23674
+      }
+    ]
+  },
+  "DXB-BSZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23775
+      }
+    ]
+  },
+  "DXB-ALA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23855
+      }
+    ]
+  },
+  "DXB-HKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23949
+      }
+    ]
+  },
+  "DXB-SEL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24060
+      }
+    ]
+  },
+  "DXB-SHJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24222
+      }
+    ]
+  },
+  "DXB-ZNZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24632
+      }
+    ]
+  },
+  "DXB-KUL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24992
+      }
+    ]
+  },
+  "DXB-TMJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25020
+      }
+    ]
+  },
+  "DXB-CTU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25045
+      }
+    ]
+  },
+  "DXB-CXB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25302
+      }
+    ]
+  },
+  "DXB-CKG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25361
+      }
+    ]
+  },
+  "DXB-RMO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25874
+      }
+    ]
+  },
+  "DXB-DAR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26202
+      }
+    ]
+  },
+  "DXB-HKG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26306
+      }
+    ]
+  },
+  "DXB-EBL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26478
+      }
+    ]
+  },
+  "DXB-LED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26615
+      }
+    ]
+  },
+  "DXB-MSQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26699
+      }
+    ]
+  },
+  "DXB-SCO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26876
+      }
+    ]
+  },
+  "DXB-DPS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27095
+      }
+    ]
+  },
+  "DXB-MRS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27127
+      }
+    ]
+  },
+  "DXB-HMB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27188
+      }
+    ]
+  },
+  "DXB-MAN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27485
+      }
+    ]
+  },
+  "DXB-HOF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27586
+      }
+    ]
+  },
+  "DXB-KNU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28022
+      }
+    ]
+  },
+  "DXB-CIT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28034
+      }
+    ]
+  },
+  "DXB-KJA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28098
+      }
+    ]
+  },
+  "DXB-KRR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28100
+      }
+    ]
+  },
+  "DXB-IKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28185
+      }
+    ]
+  },
+  "DXB-KGL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28228
+      }
+    ]
+  },
+  "DXB-TIV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28438
+      }
+    ]
+  },
+  "DXB-GRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28771
+      }
+    ]
+  },
+  "DXB-MNL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28880
+      }
+    ]
+  },
+  "DXB-MRU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29449
+      }
+    ]
+  },
+  "DXB-LOS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29522
+      }
+    ]
+  },
+  "DXB-SEZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29796
+      }
+    ]
+  },
+  "DXB-UGC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29957
+      }
+    ]
+  },
+  "DXB-GNJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29961
+      }
+    ]
+  },
+  "DXB-MRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30061
+      }
+    ]
+  },
+  "DXB-BSR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30643
+      }
+    ]
+  },
+  "DXB-NYC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30936
+      }
+    ]
+  },
+  "DXB-MCX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30963
+      }
+    ]
+  },
+  "DXB-BHX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31293
+      }
+    ]
+  },
+  "DXB-DIR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31807
+      }
+    ]
+  },
+  "DXB-HGA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31994
+      }
+    ]
+  },
+  "DXB-AKX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32319
+      }
+    ]
+  },
+  "DXB-PZU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32719
+      }
+    ]
+  },
+  "DXB-ABJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34234
+      }
+    ]
+  },
+  "DXB-HGH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34964
+      }
+    ]
+  },
+  "DXB-GWD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36184
+      }
+    ]
+  },
+  "DXB-ACC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37167
+      }
+    ]
+  },
+  "DXB-CHI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37859
+      }
+    ]
+  },
+  "DXB-NJC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37870
+      }
+    ]
+  },
+  "DXB-TRR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37966
+      }
+    ]
+  },
+  "DXB-FIH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38386
+      }
+    ]
+  },
+  "DXB-DUB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38742
+      }
+    ]
+  },
+  "DXB-KHV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38899
+      }
+    ]
+  },
+  "DXB-NAV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40848
+      }
+    ]
+  },
+  "DXB-NSK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41948
+      }
+    ]
+  },
+  "DXB-LAD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42071
+      }
+    ]
+  },
+  "DXB-ASB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42805
+      }
+    ]
+  },
+  "DXB-JUB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42971
+      }
+    ]
+  },
+  "DXB-HEA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 49279
+      }
+    ]
+  },
+  "DXB-AZN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54247
+      }
+    ]
+  },
+  "DXB-OUA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 69636
+      }
+    ]
+  },
+  "DXB-BEN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 75244
+      }
+    ]
+  },
+  "DXB-FAO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 84250
+      }
+    ]
+  },
+  "DXB-FMM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 94922
+      }
+    ]
+  },
+  "DXB-HKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10661
+      }
+    ]
+  },
+  "DXB-BAH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14943
+      }
+    ]
+  },
+  "DXB-RUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15228
+      }
+    ]
+  },
+  "DXB-SLL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17443
+      }
+    ]
+  },
+  "DXB-MCT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18031
+      }
+    ]
+  },
+  "DXB-JED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18083
+      }
+    ]
+  },
+  "DXB-DMM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20537
+      }
+    ]
+  },
+  "DXB-MED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21112
+      }
+    ]
+  },
+  "DXB-DOH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21543
+      }
+    ]
+  },
+  "DXB-BOM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21622
+      }
+    ]
+  },
+  "DXB-LCA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24469
+      }
+    ]
+  },
+  "DXB-CMB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24750
+      }
+    ]
+  },
+  "DXB-KHI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24947
+      }
+    ]
+  },
+  "DXB-GOI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25191
+      }
+    ]
+  },
+  "DXB-IST-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25393
+      }
+    ]
+  },
+  "DXB-TAS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25467
+      }
+    ]
+  },
+  "DXB-PNQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25770
+      }
+    ]
+  },
+  "DXB-KTM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25900
+      }
+    ]
+  },
+  "DXB-NBO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25901
+      }
+    ]
+  },
+  "DXB-CAI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26574
+      }
+    ]
+  },
+  "DXB-ISB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27513
+      }
+    ]
+  },
+  "DXB-DYU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27527
+      }
+    ]
+  },
+  "DXB-AMD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27604
+      }
+    ]
+  },
+  "DXB-DEL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27872
+      }
+    ]
+  },
+  "DXB-NQZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28193
+      }
+    ]
+  },
+  "DXB-ULH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30092
+      }
+    ]
+  },
+  "DXB-ROM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31161
+      }
+    ]
+  },
+  "DXB-RMO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31264
+      }
+    ]
+  },
+  "DXB-ADD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31414
+      }
+    ]
+  },
+  "DXB-LHE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31556
+      }
+    ]
+  },
+  "DXB-MAD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31639
+      }
+    ]
+  },
+  "DXB-KWI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31988
+      }
+    ]
+  },
+  "DXB-ATH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32267
+      }
+    ]
+  },
+  "DXB-JAI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32384
+      }
+    ]
+  },
+  "DXB-MAA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32656
+      }
+    ]
+  },
+  "DXB-SKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32981
+      }
+    ]
+  },
+  "DXB-ALA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33061
+      }
+    ]
+  },
+  "DXB-MIL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33780
+      }
+    ]
+  },
+  "DXB-MOW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34983
+      }
+    ]
+  },
+  "DXB-LKO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35218
+      }
+    ]
+  },
+  "DXB-IXB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35250
+      }
+    ]
+  },
+  "DXB-BUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35272
+      }
+    ]
+  },
+  "DXB-EBL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35359
+      }
+    ]
+  },
+  "DXB-EVN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35547
+      }
+    ]
+  },
+  "DXB-SSH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35768
+      }
+    ]
+  },
+  "DXB-BKK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36270
+      }
+    ]
+  },
+  "DXB-EBB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36706
+      }
+    ]
+  },
+  "DXB-SIN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36715
+      }
+    ]
+  },
+  "DXB-TBS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36803
+      }
+    ]
+  },
+  "DXB-PEW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37174
+      }
+    ]
+  },
+  "DXB-ALY-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37331
+      }
+    ]
+  },
+  "DXB-BSZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37937
+      }
+    ]
+  },
+  "DXB-LON-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38179
+      }
+    ]
+  },
+  "DXB-BAK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38321
+      }
+    ]
+  },
+  "DXB-HYD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39319
+      }
+    ]
+  },
+  "DXB-CCU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39521
+      }
+    ]
+  },
+  "DXB-KUL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39745
+      }
+    ]
+  },
+  "DXB-CAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40454
+      }
+    ]
+  },
+  "DXB-MLE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40600
+      }
+    ]
+  },
+  "DXB-MBA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40895
+      }
+    ]
+  },
+  "DXB-IXE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41032
+      }
+    ]
+  },
+  "DXB-BEG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41645
+      }
+    ]
+  },
+  "DXB-BRU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41745
+      }
+    ]
+  },
+  "DXB-AUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41763
+      }
+    ]
+  },
+  "DXB-CMN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41866
+      }
+    ]
+  },
+  "DXB-BUS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42334
+      }
+    ]
+  },
+  "DXB-CCJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42905
+      }
+    ]
+  },
+  "DXB-BLQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42920
+      }
+    ]
+  },
+  "DXB-DAC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43662
+      }
+    ]
+  },
+  "DXB-TRV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44130
+      }
+    ]
+  },
+  "DXB-ZRH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44416
+      }
+    ]
+  },
+  "DXB-FRA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44758
+      }
+    ]
+  },
+  "DXB-ZNZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44968
+      }
+    ]
+  },
+  "DXB-VIE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45031
+      }
+    ]
+  },
+  "DXB-TIV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45400
+      }
+    ]
+  },
+  "DXB-KBL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45446
+      }
+    ]
+  },
+  "DXB-JNB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45494
+      }
+    ]
+  },
+  "DXB-LED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45786
+      }
+    ]
+  },
+  "DXB-SKD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45835
+      }
+    ]
+  },
+  "DXB-MSQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45944
+      }
+    ]
+  },
+  "DXB-ALG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46343
+      }
+    ]
+  },
+  "DXB-ATQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46392
+      }
+    ]
+  },
+  "DXB-MCX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46792
+      }
+    ]
+  },
+  "DXB-DUB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47077
+      }
+    ]
+  },
+  "DXB-SHJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 48560
+      }
+    ]
+  },
+  "DXB-PRG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 48789
+      }
+    ]
+  },
+  "DXB-DPS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 49352
+      }
+    ]
+  },
+  "DXB-HRE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50260
+      }
+    ]
+  },
+  "DXB-SJJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50383
+      }
+    ]
+  },
+  "DXB-MUX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50546
+      }
+    ]
+  },
+  "DXB-MAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50949
+      }
+    ]
+  },
+  "DXB-CKG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 51574
+      }
+    ]
+  },
+  "DXB-SEL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 52085
+      }
+    ]
+  },
+  "DXB-PMO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 52147
+      }
+    ]
+  },
+  "DXB-KGL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 52515
+      }
+    ]
+  },
+  "DXB-SEZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53218
+      }
+    ]
+  },
+  "DXB-MNL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53662
+      }
+    ]
+  },
+  "DXB-HKG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54554
+      }
+    ]
+  },
+  "DXB-NAG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55108
+      }
+    ]
+  },
+  "DXB-LXR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55566
+      }
+    ]
+  },
+  "DXB-HGA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 56025
+      }
+    ]
+  },
+  "DXB-ASB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 57233
+      }
+    ]
+  },
+  "DXB-DAD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 57588
+      }
+    ]
+  },
+  "DXB-GUW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 58007
+      }
+    ]
+  },
+  "DXB-MRU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 58365
+      }
+    ]
+  },
+  "DXB-KJA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59042
+      }
+    ]
+  },
+  "DXB-ABJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59176
+      }
+    ]
+  },
+  "DXB-DAR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59305
+      }
+    ]
+  },
+  "DXB-IKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 60468
+      }
+    ]
+  },
+  "DXB-NYC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 62061
+      }
+    ]
+  },
+  "DXB-SCO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 64425
+      }
+    ]
+  },
+  "DXB-HGH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 65072
+      }
+    ]
+  },
+  "DXB-HAJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 65702
+      }
+    ]
+  },
+  "DXB-TRZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 65902
+      }
+    ]
+  },
+  "DXB-PFO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 67789
+      }
+    ]
+  },
+  "DXB-TYO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 69518
+      }
+    ]
+  },
+  "DXB-FIH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 69879
+      }
+    ]
+  },
+  "DXB-DUS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 71666
+      }
+    ]
+  },
+  "DXB-FLR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 72723
+      }
+    ]
+  },
+  "DXB-LFW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 74567
+      }
+    ]
+  },
+  "DXB-BHK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 75086
+      }
+    ]
+  },
+  "DXB-ACC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 77104
+      }
+    ]
+  },
+  "DXB-MIA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80058
+      }
+    ]
+  },
+  "DXB-NOS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80250
+      }
+    ]
+  },
+  "DXB-YMQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80927
+      }
+    ]
+  },
+  "DXB-BGW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 81671
+      }
+    ]
+  },
+  "DXB-YTO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 82270
+      }
+    ]
+  },
+  "DXB-COO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 88794
+      }
+    ]
+  },
+  "DXB-CKY-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 89575
+      }
+    ]
+  },
+  "DXB-NOZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 92995
+      }
+    ]
+  },
+  "DXB-YVA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 99993
+      }
+    ]
+  },
+  "DXB-FNA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 104602
+      }
+    ]
+  },
+  "DXB-MSU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 106620
+      }
+    ]
+  },
+  "DXB-SAO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 107816
+      }
+    ]
+  },
+  "DXB-DKR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 142535
+      }
+    ]
+  },
+  "DXB-BWI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 148368
+      }
+    ]
+  },
+  "DXB-NAS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 149831
+      }
+    ]
+  },
+  "DXB-SJC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 158663
+      }
+    ]
+  },
+  "DXB-OAK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 201484
+      }
+    ]
+  },
+  "SHJ-RUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8497
+      }
+    ]
+  },
+  "SHJ-KHI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 8615
+      }
+    ]
+  },
+  "SHJ-MCT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9055
+      }
+    ]
+  },
+  "SHJ-DMM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9514
+      }
+    ]
+  },
+  "SHJ-JED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9514
+      }
+    ]
+  },
+  "SHJ-BAH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9537
+      }
+    ]
+  },
+  "SHJ-MUX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9688
+      }
+    ]
+  },
+  "SHJ-AHB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9748
+      }
+    ]
+  },
+  "SHJ-ELQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 9775
+      }
+    ]
+  },
+  "SHJ-SKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10409
+      }
+    ]
+  },
+  "SHJ-LHE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 10532
+      }
+    ]
+  },
+  "SHJ-PEW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11256
+      }
+    ]
+  },
+  "SHJ-SLL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11665
+      }
+    ]
+  },
+  "SHJ-ISB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11749
+      }
+    ]
+  },
+  "SHJ-CMB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 11756
+      }
+    ]
+  },
+  "SHJ-BOM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12081
+      }
+    ]
+  },
+  "SHJ-DOH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 12619
+      }
+    ]
+  },
+  "SHJ-AMD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13032
+      }
+    ]
+  },
+  "SHJ-MED-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13191
+      }
+    ]
+  },
+  "SHJ-BGW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13328
+      }
+    ]
+  },
+  "SHJ-KTM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13602
+      }
+    ]
+  },
+  "SHJ-ATQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13710
+      }
+    ]
+  },
+  "SHJ-JAI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 13918
+      }
+    ]
+  },
+  "SHJ-CGP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14139
+      }
+    ]
+  },
+  "SHJ-BSR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14333
+      }
+    ]
+  },
+  "SHJ-DEL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14415
+      }
+    ]
+  },
+  "SHJ-TZX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14670
+      }
+    ]
+  },
+  "SHJ-HMB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14876
+      }
+    ]
+  },
+  "SHJ-BLR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15070
+      }
+    ]
+  },
+  "SHJ-EBL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15071
+      }
+    ]
+  },
+  "SHJ-DAC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15381
+      }
+    ]
+  },
+  "SHJ-GOI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 15581
+      }
+    ]
+  },
+  "SHJ-HYD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16016
+      }
+    ]
+  },
+  "SHJ-AYJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16051
+      }
+    ]
+  },
+  "SHJ-PAT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16055
+      }
+    ]
+  },
+  "SHJ-LXR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16221
+      }
+    ]
+  },
+  "SHJ-ALY-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16370
+      }
+    ]
+  },
+  "SHJ-GAU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16422
+      }
+    ]
+  },
+  "SHJ-LYP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16614
+      }
+    ]
+  },
+  "SHJ-TBS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16766
+      }
+    ]
+  },
+  "SHJ-VNS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16801
+      }
+    ]
+  },
+  "SHJ-ADD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17030
+      }
+    ]
+  },
+  "SHJ-TRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17150
+      }
+    ]
+  },
+  "SHJ-UET-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17406
+      }
+    ]
+  },
+  "SHJ-IXG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17806
+      }
+    ]
+  },
+  "SHJ-CAI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17971
+      }
+    ]
+  },
+  "SHJ-BKK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 17975
+      }
+    ]
+  },
+  "SHJ-EVN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18108
+      }
+    ]
+  },
+  "SHJ-IXR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18141
+      }
+    ]
+  },
+  "SHJ-PNQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18171
+      }
+    ]
+  },
+  "SHJ-MAA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18179
+      }
+    ]
+  },
+  "SHJ-BAK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18407
+      }
+    ]
+  },
+  "SHJ-ULH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18574
+      }
+    ]
+  },
+  "SHJ-ALA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18610
+      }
+    ]
+  },
+  "SHJ-KWI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 18839
+      }
+    ]
+  },
+  "SHJ-TAS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19101
+      }
+    ]
+  },
+  "SHJ-SSH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19256
+      }
+    ]
+  },
+  "SHJ-NBO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19268
+      }
+    ]
+  },
+  "SHJ-HRG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19502
+      }
+    ]
+  },
+  "SHJ-EBB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19652
+      }
+    ]
+  },
+  "SHJ-CCU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19702
+      }
+    ]
+  },
+  "SHJ-AUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19774
+      }
+    ]
+  },
+  "SHJ-IXD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19804
+      }
+    ]
+  },
+  "SHJ-IST-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20021
+      }
+    ]
+  },
+  "SHJ-ATH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20039
+      }
+    ]
+  },
+  "SHJ-IDR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20185
+      }
+    ]
+  },
+  "SHJ-MLE-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20221
+      }
+    ]
+  },
+  "SHJ-DQM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20259
+      }
+    ]
+  },
+  "SHJ-RDP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20279
+      }
+    ]
+  },
+  "SHJ-DYU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20296
+      }
+    ]
+  },
+  "SHJ-TIF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20568
+      }
+    ]
+  },
+  "SHJ-TRZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20964
+      }
+    ]
+  },
+  "SHJ-COK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21063
+      }
+    ]
+  },
+  "SHJ-UDR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21094
+      }
+    ]
+  },
+  "SHJ-KUL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21205
+      }
+    ]
+  },
+  "SHJ-LCA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21284
+      }
+    ]
+  },
+  "SHJ-DBR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21357
+      }
+    ]
+  },
+  "SHJ-IXB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21509
+      }
+    ]
+  },
+  "SHJ-SKD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21659
+      }
+    ]
+  },
+  "SHJ-HKT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21847
+      }
+    ]
+  },
+  "SHJ-FEG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21941
+      }
+    ]
+  },
+  "SHJ-CIT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21983
+      }
+    ]
+  },
+  "SHJ-PAR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23036
+      }
+    ]
+  },
+  "SHJ-SIN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23196
+      }
+    ]
+  },
+  "SHJ-NAV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23317
+      }
+    ]
+  },
+  "SHJ-KRR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23589
+      }
+    ]
+  },
+  "SHJ-DXB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23605
+      }
+    ]
+  },
+  "SHJ-SGN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23835
+      }
+    ]
+  },
+  "SHJ-HSA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24131
+      }
+    ]
+  },
+  "SHJ-CTU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24377
+      }
+    ]
+  },
+  "SHJ-BER-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24520
+      }
+    ]
+  },
+  "SHJ-ROM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24521
+      }
+    ]
+  },
+  "SHJ-AER-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24538
+      }
+    ]
+  },
+  "SHJ-MRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24601
+      }
+    ]
+  },
+  "SHJ-SCO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24855
+      }
+    ]
+  },
+  "SHJ-BUS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24892
+      }
+    ]
+  },
+  "SHJ-MIL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24894
+      }
+    ]
+  },
+  "SHJ-KUF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24911
+      }
+    ]
+  },
+  "SHJ-NQZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25026
+      }
+    ]
+  },
+  "SHJ-SVX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25172
+      }
+    ]
+  },
+  "SHJ-UKK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25196
+      }
+    ]
+  },
+  "SHJ-CKG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25264
+      }
+    ]
+  },
+  "SHJ-TUU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25296
+      }
+    ]
+  },
+  "SHJ-BUH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25349
+      }
+    ]
+  },
+  "SHJ-NAG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25632
+      }
+    ]
+  },
+  "SHJ-AKX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25664
+      }
+    ]
+  },
+  "SHJ-NMA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25811
+      }
+    ]
+  },
+  "SHJ-UFA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25824
+      }
+    ]
+  },
+  "SHJ-VGA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26126
+      }
+    ]
+  },
+  "SHJ-RMO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26284
+      }
+    ]
+  },
+  "SHJ-BSZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26348
+      }
+    ]
+  },
+  "SHJ-NAP-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26626
+      }
+    ]
+  },
+  "SHJ-OSS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26728
+      }
+    ]
+  },
+  "SHJ-CGN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26805
+      }
+    ]
+  },
+  "SHJ-BUD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 26902
+      }
+    ]
+  },
+  "SHJ-HDY-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27123
+      }
+    ]
+  },
+  "SHJ-BHK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27163
+      }
+    ]
+  },
+  "SHJ-MOW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27474
+      }
+    ]
+  },
+  "SHJ-BEG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27493
+      }
+    ]
+  },
+  "SHJ-DIR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27581
+      }
+    ]
+  },
+  "SHJ-PQC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27729
+      }
+    ]
+  },
+  "SHJ-TIV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27968
+      }
+    ]
+  },
+  "SHJ-JMK-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28289
+      }
+    ]
+  },
+  "SHJ-LOS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28593
+      }
+    ]
+  },
+  "SHJ-HKG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29347
+      }
+    ]
+  },
+  "SHJ-HAN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29569
+      }
+    ]
+  },
+  "SHJ-GUW-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29793
+      }
+    ]
+  },
+  "SHJ-URA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30470
+      }
+    ]
+  },
+  "SHJ-GWD-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30572
+      }
+    ]
+  },
+  "SHJ-JNB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30844
+      }
+    ]
+  },
+  "SHJ-REN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31137
+      }
+    ]
+  },
+  "SHJ-CAN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31202
+      }
+    ]
+  },
+  "SHJ-TUN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31255
+      }
+    ]
+  },
+  "SHJ-DPS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31299
+      }
+    ]
+  },
+  "SHJ-LIS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31583
+      }
+    ]
+  },
+  "SHJ-OVB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32242
+      }
+    ]
+  },
+  "SHJ-DHM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32278
+      }
+    ]
+  },
+  "SHJ-CRA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32758
+      }
+    ]
+  },
+  "SHJ-VOG-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32934
+      }
+    ]
+  },
+  "SHJ-DUB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33332
+      }
+    ]
+  },
+  "SHJ-CEB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33682
+      }
+    ]
+  },
+  "SHJ-BTS-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33864
+      }
+    ]
+  },
+  "SHJ-ATZ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33867
+      }
+    ]
+  },
+  "SHJ-NHA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33997
+      }
+    ]
+  },
+  "SHJ-GRV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33999
+      }
+    ]
+  },
+  "SHJ-EDI-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34212
+      }
+    ]
+  },
+  "SHJ-KBV-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34250
+      }
+    ]
+  },
+  "SHJ-MAN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34388
+      }
+    ]
+  },
+  "SHJ-PFO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34460
+      }
+    ]
+  },
+  "SHJ-HAM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34518
+      }
+    ]
+  },
+  "SHJ-MNL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34815
+      }
+    ]
+  },
+  "SHJ-PZU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35129
+      }
+    ]
+  },
+  "SHJ-RPR-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35571
+      }
+    ]
+  },
+  "SHJ-BPN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35837
+      }
+    ]
+  },
+  "SHJ-OPO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35887
+      }
+    ]
+  },
+  "SHJ-BLQ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35975
+      }
+    ]
+  },
+  "SHJ-KSN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36455
+      }
+    ]
+  },
+  "SHJ-ACC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36960
+      }
+    ]
+  },
+  "SHJ-CXB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37041
+      }
+    ]
+  },
+  "SHJ-BWN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38124
+      }
+    ]
+  },
+  "SHJ-BIO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38410
+      }
+    ]
+  },
+  "SHJ-TYO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38779
+      }
+    ]
+  },
+  "SHJ-BHX-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39926
+      }
+    ]
+  },
+  "SHJ-NJF-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40461
+      }
+    ]
+  },
+  "SHJ-URT-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40526
+      }
+    ]
+  },
+  "SHJ-ABJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40634
+      }
+    ]
+  },
+  "SHJ-FIH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41729
+      }
+    ]
+  },
+  "SHJ-NYC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42234
+      }
+    ]
+  },
+  "SHJ-HGA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42291
+      }
+    ]
+  },
+  "SHJ-SEL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43027
+      }
+    ]
+  },
+  "SHJ-OSA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43675
+      }
+    ]
+  },
+  "SHJ-KWL-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44151
+      }
+    ]
+  },
+  "SHJ-LUN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47810
+      }
+    ]
+  },
+  "SHJ-NUM-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 49759
+      }
+    ]
+  },
+  "SHJ-UGC-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 51048
+      }
+    ]
+  },
+  "SHJ-PBH-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55145
+      }
+    ]
+  },
+  "SHJ-YTO-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 60104
+      }
+    ]
+  },
+  "SHJ-MBA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 65543
+      }
+    ]
+  },
+  "SHJ-HOU-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 65991
+      }
+    ]
+  },
+  "SHJ-OUA-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 75850
+      }
+    ]
+  },
+  "SHJ-GNJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80641
+      }
+    ]
+  },
+  "SHJ-JUB-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 82156
+      }
+    ]
+  },
+  "SHJ-BEN-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 98466
+      }
+    ]
+  },
+  "SHJ-NDJ-OW": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 100180
+      }
+    ]
+  },
+  "SHJ-RUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 14377
+      }
+    ]
+  },
+  "SHJ-MCT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16423
+      }
+    ]
+  },
+  "SHJ-BAH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 16904
+      }
+    ]
+  },
+  "SHJ-IST-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19237
+      }
+    ]
+  },
+  "SHJ-JED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19819
+      }
+    ]
+  },
+  "SHJ-DMM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 19852
+      }
+    ]
+  },
+  "SHJ-SLL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 20817
+      }
+    ]
+  },
+  "SHJ-DOH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 21683
+      }
+    ]
+  },
+  "SHJ-DLM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 23051
+      }
+    ]
+  },
+  "SHJ-KHI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24464
+      }
+    ]
+  },
+  "SHJ-CMB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 24498
+      }
+    ]
+  },
+  "SHJ-BOM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 25247
+      }
+    ]
+  },
+  "SHJ-BJV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27315
+      }
+    ]
+  },
+  "SHJ-MED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 27743
+      }
+    ]
+  },
+  "SHJ-CAI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 28106
+      }
+    ]
+  },
+  "SHJ-TBS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 29972
+      }
+    ]
+  },
+  "SHJ-ADD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 30870
+      }
+    ]
+  },
+  "SHJ-ALY-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31017
+      }
+    ]
+  },
+  "SHJ-BAK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31171
+      }
+    ]
+  },
+  "SHJ-TAS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31221
+      }
+    ]
+  },
+  "SHJ-EVN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31306
+      }
+    ]
+  },
+  "SHJ-GOI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 31467
+      }
+    ]
+  },
+  "SHJ-DEL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32350
+      }
+    ]
+  },
+  "SHJ-PEW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32810
+      }
+    ]
+  },
+  "SHJ-BKK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 32834
+      }
+    ]
+  },
+  "SHJ-KTM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33363
+      }
+    ]
+  },
+  "SHJ-LHE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 33815
+      }
+    ]
+  },
+  "SHJ-ALA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34020
+      }
+    ]
+  },
+  "SHJ-PNQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34190
+      }
+    ]
+  },
+  "SHJ-EBB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34460
+      }
+    ]
+  },
+  "SHJ-ISB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 34547
+      }
+    ]
+  },
+  "SHJ-TZX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35119
+      }
+    ]
+  },
+  "SHJ-MLE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35295
+      }
+    ]
+  },
+  "SHJ-HRG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35699
+      }
+    ]
+  },
+  "SHJ-EBL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 35905
+      }
+    ]
+  },
+  "SHJ-AYT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36152
+      }
+    ]
+  },
+  "SHJ-MUX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36326
+      }
+    ]
+  },
+  "SHJ-LXR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36671
+      }
+    ]
+  },
+  "SHJ-LKO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 36747
+      }
+    ]
+  },
+  "SHJ-NBO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37062
+      }
+    ]
+  },
+  "SHJ-SKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 37151
+      }
+    ]
+  },
+  "SHJ-KUL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38005
+      }
+    ]
+  },
+  "SHJ-SSH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 38107
+      }
+    ]
+  },
+  "SHJ-CTU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39112
+      }
+    ]
+  },
+  "SHJ-MOW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39297
+      }
+    ]
+  },
+  "SHJ-HKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39339
+      }
+    ]
+  },
+  "SHJ-AMD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39490
+      }
+    ]
+  },
+  "SHJ-AER-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39706
+      }
+    ]
+  },
+  "SHJ-KWI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39763
+      }
+    ]
+  },
+  "SHJ-AUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 39836
+      }
+    ]
+  },
+  "SHJ-BGW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40355
+      }
+    ]
+  },
+  "SHJ-SIN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40388
+      }
+    ]
+  },
+  "SHJ-ATH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 40949
+      }
+    ]
+  },
+  "SHJ-MAA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41728
+      }
+    ]
+  },
+  "SHJ-KZN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41773
+      }
+    ]
+  },
+  "SHJ-CKG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 41967
+      }
+    ]
+  },
+  "SHJ-LCA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42059
+      }
+    ]
+  },
+  "SHJ-BCN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42476
+      }
+    ]
+  },
+  "SHJ-SVX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42753
+      }
+    ]
+  },
+  "SHJ-AMS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 42768
+      }
+    ]
+  },
+  "SHJ-UFA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43406
+      }
+    ]
+  },
+  "SHJ-TRV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43677
+      }
+    ]
+  },
+  "SHJ-BLR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 43961
+      }
+    ]
+  },
+  "SHJ-IXE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 44530
+      }
+    ]
+  },
+  "SHJ-HMB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45343
+      }
+    ]
+  },
+  "SHJ-SGN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 45831
+      }
+    ]
+  },
+  "SHJ-JAI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46051
+      }
+    ]
+  },
+  "SHJ-COK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46192
+      }
+    ]
+  },
+  "SHJ-NAV-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46433
+      }
+    ]
+  },
+  "SHJ-BER-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46626
+      }
+    ]
+  },
+  "SHJ-BUH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46675
+      }
+    ]
+  },
+  "SHJ-CGP-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 46761
+      }
+    ]
+  },
+  "SHJ-JMK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47214
+      }
+    ]
+  },
+  "SHJ-KRR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47318
+      }
+    ]
+  },
+  "SHJ-MAD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47326
+      }
+    ]
+  },
+  "SHJ-CAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47452
+      }
+    ]
+  },
+  "SHJ-IXB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47491
+      }
+    ]
+  },
+  "SHJ-NQZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47598
+      }
+    ]
+  },
+  "SHJ-CCU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 47999
+      }
+    ]
+  },
+  "SHJ-LON-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 48710
+      }
+    ]
+  },
+  "SHJ-ASR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 49154
+      }
+    ]
+  },
+  "SHJ-SHA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 49752
+      }
+    ]
+  },
+  "SHJ-TUN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50680
+      }
+    ]
+  },
+  "SHJ-DAC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50816
+      }
+    ]
+  },
+  "SHJ-CCJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 50869
+      }
+    ]
+  },
+  "SHJ-ROM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 51075
+      }
+    ]
+  },
+  "SHJ-WAW-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 51452
+      }
+    ]
+  },
+  "SHJ-HKG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 51470
+      }
+    ]
+  },
+  "SHJ-VIE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 52252
+      }
+    ]
+  },
+  "SHJ-MIL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 52903
+      }
+    ]
+  },
+  "SHJ-LED-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53200
+      }
+    ]
+  },
+  "SHJ-RMO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53322
+      }
+    ]
+  },
+  "SHJ-DYU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 53731
+      }
+    ]
+  },
+  "SHJ-ANK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54010
+      }
+    ]
+  },
+  "SHJ-BUS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54168
+      }
+    ]
+  },
+  "SHJ-OVB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 54849
+      }
+    ]
+  },
+  "SHJ-GVA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55400
+      }
+    ]
+  },
+  "SHJ-CIT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55625
+      }
+    ]
+  },
+  "SHJ-MBA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55887
+      }
+    ]
+  },
+  "SHJ-ZRH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 55926
+      }
+    ]
+  },
+  "SHJ-PRG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 56652
+      }
+    ]
+  },
+  "SHJ-MAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 57166
+      }
+    ]
+  },
+  "SHJ-CPH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 57200
+      }
+    ]
+  },
+  "SHJ-NAG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 58295
+      }
+    ]
+  },
+  "SHJ-JKT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59041
+      }
+    ]
+  },
+  "SHJ-JNB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 59621
+      }
+    ]
+  },
+  "SHJ-HSA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 60085
+      }
+    ]
+  },
+  "SHJ-DUB-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 60469
+      }
+    ]
+  },
+  "SHJ-PFO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 60579
+      }
+    ]
+  },
+  "SHJ-ALG-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61224
+      }
+    ]
+  },
+  "SHJ-BLQ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61270
+      }
+    ]
+  },
+  "SHJ-KJA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61270
+      }
+    ]
+  },
+  "SHJ-HGH-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61407
+      }
+    ]
+  },
+  "SHJ-STO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61470
+      }
+    ]
+  },
+  "SHJ-DAD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 61486
+      }
+    ]
+  },
+  "SHJ-BRU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 62835
+      }
+    ]
+  },
+  "SHJ-CPT-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 63840
+      }
+    ]
+  },
+  "SHJ-KGL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 64145
+      }
+    ]
+  },
+  "SHJ-DPS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 64349
+      }
+    ]
+  },
+  "SHJ-SCO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 65347
+      }
+    ]
+  },
+  "SHJ-SKD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 67186
+      }
+    ]
+  },
+  "SHJ-USM-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 67806
+      }
+    ]
+  },
+  "SHJ-BJS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 68192
+      }
+    ]
+  },
+  "SHJ-BHX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 69176
+      }
+    ]
+  },
+  "SHJ-TGD-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 69795
+      }
+    ]
+  },
+  "SHJ-HAN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 71692
+      }
+    ]
+  },
+  "SHJ-KTI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 72361
+      }
+    ]
+  },
+  "SHJ-PRN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 72803
+      }
+    ]
+  },
+  "SHJ-SEL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 73631
+      }
+    ]
+  },
+  "SHJ-NYC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 76103
+      }
+    ]
+  },
+  "SHJ-SEZ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 76526
+      }
+    ]
+  },
+  "SHJ-MNL-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 76583
+      }
+    ]
+  },
+  "SHJ-HGA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80351
+      }
+    ]
+  },
+  "SHJ-HRE-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 80644
+      }
+    ]
+  },
+  "SHJ-ACC-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 88894
+      }
+    ]
+  },
+  "SHJ-BEN-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 97248
+      }
+    ]
+  },
+  "SHJ-COO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 104596
+      }
+    ]
+  },
+  "SHJ-ARK-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 107894
+      }
+    ]
+  },
+  "SHJ-NOS-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 108535
+      }
+    ]
+  },
+  "SHJ-SAO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 111490
+      }
+    ]
+  },
+  "SHJ-TNR-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 112246
+      }
+    ]
+  },
+  "SHJ-FNA-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 112867
+      }
+    ]
+  },
+  "SHJ-YTO-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 115384
+      }
+    ]
+  },
+  "SHJ-CHI-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 124989
+      }
+    ]
+  },
+  "SHJ-LAX-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 125141
+      }
+    ]
+  },
+  "SHJ-NDJ-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 127960
+      }
+    ]
+  },
+  "SHJ-HOU-RT": {
+    "prices": [
+      {
+        "date": "2026-05-22",
+        "price": 149468
+      }
+    ]
+  }
+}
